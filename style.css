@@ -1,0 +1,13 @@
+*{
+    font-family: monospace;
+}
+input{
+    padding: 10px;
+    border:none;
+    border-bottom: 2px solid black;
+    margin: 5px;
+}
+
+label{
+    font-weight: bold;
+}
